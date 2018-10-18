@@ -1,0 +1,23 @@
+{
+  "name": "breakserver",
+  "version": "0.4.0",
+  "description": "HTTP load generator",
+  "main": "breakserver.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trycrmr/breakserver.git"
+  },
+  "author": "trycrmr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trycrmr/breakserver/issues"
+  },
+  "homepage": "https://github.com/trycrmr/breakserver#readme"
+}
