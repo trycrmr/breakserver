@@ -1,3 +1,9 @@
+#breakserver specific
+results/*
+
+#breakserver exceptions
+!results/.gitkeep
+
 # Logs
 logs
 *.log
